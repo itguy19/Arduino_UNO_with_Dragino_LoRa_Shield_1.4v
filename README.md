@@ -9,9 +9,17 @@
 <h2>Used resources / documentation:</h2>
 <ul>
   <li>Deprecated and old ino file: https://github.com/dragino/Lora/blob/master/Lora%20Shield/Examples/lora_shield_ttn/lora_shield_ttn.ino</li>
-  <li>Newest ino file for ttn3: https://www.thethingsnetwork.org/forum/t/registering-an-end-device-arduino-dragino-lora-shield/50912/8</li>
+  <li>Newest ino file for TTN v3: https://www.thethingsnetwork.org/forum/t/registering-an-end-device-arduino-dragino-lora-shield/50912/8</li>
   <li>Temperature and humidity sensor docs: https://wiki.dfrobot.com/SKU_SEN0546_I2C_Temperature_and_Humidity_Sensor_Stainless_Steel_Shell#target_4</li>
-  <li></li>
 </ul>
 
-This repo contains the necessary code to collect and send data from from an Arduino Uno. It is equipped with a humidity and temperature sensor.  
+This repo contains the necessary code to collect and send data from an Arduino Uno to TTN (The Things Network). It is equipped with a humidity and temperature sensor. For this script to work on your machine, please follow the next steps:
+
+
+I only copied the code together, all credit to the creators of the ino scripts.
+
+<h2>Creators:<h2>
+Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
+Copyright (c) 2018 Terry Moore, MCCI
+Copyright (c) 2018 Betina Wendel and Thomas Laurenson
+Modified by 2023 itguy19
