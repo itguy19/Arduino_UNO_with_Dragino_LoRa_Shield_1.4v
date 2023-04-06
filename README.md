@@ -19,7 +19,9 @@ This repo contains the necessary code to collect and send data from an Arduino U
 I only copied the code together, all credit to the creators of the ino scripts.
 
 <h2>Creators:</h2>
-Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
-Copyright (c) 2018 Terry Moore, MCCI
-Copyright (c) 2018 Betina Wendel and Thomas Laurenson
-Modified by 2023 itguy19
+<ul>
+  <li>Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman</li>
+  <li>Copyright (c) 2018 Terry Moore, MCCI</li>
+  <li>Copyright (c) 2018 Betina Wendel and Thomas Laurenson</li>
+  <li>Modified by 2023 itguy19</li>
+</ul>
