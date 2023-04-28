@@ -24,7 +24,7 @@ I only copied the code together, all credit to the creators of the ino scripts.
   <ol></ol>
   <ol></ol>
 </li>
-<h2>Creators:</h2>
+<h2>Credit:</h2>
 <ul>
   <li>Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman</li>
   <li>Copyright (c) 2018 Terry Moore, MCCI</li>
