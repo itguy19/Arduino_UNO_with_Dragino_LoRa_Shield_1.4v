@@ -18,6 +18,11 @@ This repo contains the necessary code to collect and send data from an Arduino U
 
 
 There are 3 versions of this projects .ino files uploaded here.
+<ol>
+  <li>v1 - Works, gets the humidity and temperature and prints the data to ther monitor</li>
+  <li>v2 - Doesn't Work, tries to send the temp & hum data to the TTN</li>
+  <li>v3 - Sometimes Work, sends a "Hello World! to the TTN, but it only works sometimes"</li>
+<ol>
 
 <h2>Credit:</h2>
 <ul>
