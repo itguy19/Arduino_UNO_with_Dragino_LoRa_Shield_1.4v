@@ -17,13 +17,8 @@
 This repo contains the necessary code to collect and send data from an Arduino Uno to TTN (The Things Network). It is equipped with a humidity and temperature sensor. Please note that this script only works for the european Lora frequency (868Mhz), so if you aren't using this in Europe, you have to modify the script a little bit more. For this script to work on your machine, please follow the next steps:
 
 
-I only copied the code together, all credit to the creators of the ino scripts.
-<li>
-  <ol></ol>
-  <ol></ol>
-  <ol></ol>
-  <ol></ol>
-</li>
+There are 3 versions of this projects .ino files uploaded here.
+
 <h2>Credit:</h2>
 <ul>
   <li>Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman</li>
