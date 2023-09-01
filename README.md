@@ -14,14 +14,14 @@
   <li>Andreas Spiess Youtube Video: https://www.youtube.com/watch?v=duwUwXt-hs8</li>
 </ul>
 
-This repo contains the necessary code to collect and send data from an Arduino Uno to TTN (The Things Network). It is equipped with a humidity and temperature sensor. Please note that this script only works for the european Lora frequency (868Mhz), so if you aren't using this in Europe, you have to modify the script a little bit more. For this script to work on your machine, please follow the next steps:
+This repo contains the necessary code to collect and send data from an Arduino Uno to TTN (The Things Network). It is equipped with a humidity and temperature sensor. Please note that this script only works for the european Lora frequency (868Mhz), so if you aren't using this in Europe, you have to modify the script a little bit more.
 
 
-There are 3 versions of this projects .ino files uploaded here.
+There are 3 versions of this projects. The .ino files uploaded here.
 <ul>
-  <li>v1 - Works, gets the humidity and temperature and prints the data to ther monitor</li>
-  <li>v2 - Doesn't Work, tries to send the temp & hum data to the TTN</li>
-  <li>v3 - Sometimes Work, sends a "Hello World! to the TTN, but it only works sometimes"</li>
+  <li>v1 - Works, gets the humidity and temperature and prints the data to the monitor</li>
+  <li>v2 - Doesn't work, tries to send the temp & hum data to the TTN</li>
+  <li>v3 - Sometimes works, sends a "Hello World!" to the TTN, but it only works sometimes</li>
 </ul>
 
 <h2>Credit:</h2>
